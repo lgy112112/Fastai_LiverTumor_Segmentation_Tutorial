@@ -1,4 +1,4 @@
-# Fastai_LiverTumor_Segmentation_Tutorial
+# LiverTumor_Segmentation_Tutorial
 Based on LiTs challenge on Kaggle. Operation on run and issues will be due heard.
 
 You can run this notebook and get results in ONE CLICK.
